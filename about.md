@@ -4,7 +4,7 @@ title: 关于
 permalink: /about/
 
 ---
-A simple and elegant theme for Jekyll and GitHub Pages.
+关于
 
 ### Features:
 * Mobile-first design ensures this theme performs fastest on mobile while scaling elegantly to desktop-size screens.
