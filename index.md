@@ -1,10 +1,9 @@
 ---
 layout: home
-permalink: "/"
-title: Athena Jekyll Theme
+permalink: /
+title: Weiwhy's Blog
 
 ---
+### 标题
 
-A simple and elegant theme for Jekyll and GitHub Pages.
-
-
+简单的测试demo
