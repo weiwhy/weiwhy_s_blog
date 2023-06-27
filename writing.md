@@ -2,20 +2,20 @@
 layout: category_index
 title: Writing
 permalink: /writing/
-category_name: writing
----
+category_name: 测试类
 
+---
 <!--
 
-Set the front matter:
-title = your page title and link name in the navigation
-permalink = the url for the page, i.e. example.com/my-awesome-category
-category_name = the name of the cateogry you want to use to group posts, you'll need to use the same name on post pages
+设置前面的内容：
+title = 你的页面标题和导航中的链接名称
+固定链接 = 页面的网址，例如 example.com/my-awesome-category。
+category_name = 你想用来分组帖子的分类名称，你需要在帖子页面上使用相同的名称。
 
-Save this page in the root directory.
-Use the same name for the filename as the permalink, i.e.
+在根目录下保存这个页面。
+在文件名中使用与固定链接相同的名称，即
 
-permalink: /my-awesome-category/
-filename: my-awesome-category.html
+permalink： /my-awesome-category/固定链接
+filename：my-awesome-category.html 文件名
 
 -->
